@@ -178,6 +178,10 @@ hr {
   border-radius: 20px;
   background: #4278AC;
 }
+
+.section-header .row{
+  margin-right: -8px
+}
 .btn {
   border-width: 0;
   border-bottom-width: 3px;
